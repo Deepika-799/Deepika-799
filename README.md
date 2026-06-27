@@ -1,27 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=280&section=header&text=Hi%20There!%20I'm%20Deepika%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E5FF&height=220&section=header&text=Sai%20Sri%20Naga%20Deepika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code.%20Learn.%20Build.%20Repeat.%20%F0%9F%9A%80&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Node.js+%E2%9A%A1;Data+Analytics+Enthusiast+%F0%9F%93%8A;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Node.js+%E2%9A%A1;Data+Analytics+Enthusiast+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-D14836?style=for-the-badge)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepika-799)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepika-799)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepika-799&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=deepika-799&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -109,6 +111,21 @@ Andhra Pradesh, India 🇮🇳
 | 💬 **Motto** | Code. Learn. Build. Repeat. 🚀 |
 
 <br>
+
+## 🚀 What Drives Me
+
+<br>
+
+- 💻 Passionate about building real-world software applications.
+- 🧩 Enjoy solving programming and DSA problems.
+- 🤖 Love exploring Artificial Intelligence and Machine Learning.
+- 📊 Interested in Data Analytics and extracting insights from data.
+- 🌱 Continuously learning modern technologies and improving my skills.
+- 🚀 Always building projects to gain practical experience.
+
+<br>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -317,11 +334,42 @@ Andhra Pradesh, India 🇮🇳
 
 <br>
 
-## 📊 GitHub Analytics
+
+## 🎯 Current Focus
 
 <br>
 
-<p align="center">📌 A snapshot of my coding activity, consistency, and most-used languages across GitHub.</p>
+```mermaid
+mindmap
+  root((Deepika's Journey))
+
+    Learning
+      FastAPI
+      Data Analytics
+      React
+      Node.js
+      Python
+
+    Building
+      Employment Portal
+      Event Ticket Booking System
+      Portfolio Website
+      AI Projects
+
+    Practicing
+      DSA
+      Problem Solving
+      Git & GitHub
+
+    Growing
+      Software Development
+      Open Source (Soon)
+      Full Stack Development
+```
+
+<br>
+
+## 📊 GitHub Analytics
 
 <br>
 
@@ -346,10 +394,6 @@ Andhra Pradesh, India 🇮🇳
 
 <br>
 
-<p align="center">🎯 Milestones and achievements earned through consistent contributions.</p>
-
-<br>
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=deepika-799&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
@@ -362,10 +406,6 @@ Andhra Pradesh, India 🇮🇳
 
 <br>
 
-<p align="center">🗓️ My contribution activity over time — consistency is the goal, not perfection.</p>
-
-<br>
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepika-799&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
@@ -374,27 +414,6 @@ Andhra Pradesh, India 🇮🇳
 
 <br>
 
-## 🐍 Contribution Snake Animation
-
-<br>
-
-<p align="center">🌱 My GitHub contribution grid, visualized as a snake eating its way through the squares.</p>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deepika-799/deepika-799/output/github-contribution-grid-snake.svg" width="95%" alt="Snake Animation"/>
-
-</div>
-
-> 💡 *Snake animation auto-generates via GitHub Actions — set up the [snake workflow](https://github.com/Platane/snk) in this repo to activate it.*
-
-<br>
-
----
-
-<br>
 
 ## 🤝 Connect With Me
 
