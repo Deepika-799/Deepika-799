@@ -439,9 +439,9 @@ mindmap
 | Platform | Link |
 |:---:|:---:|
 | 🐙 GitHub | [@deepika-799](https://github.com/deepika-799) |
-| 💼 LinkedIn | *(add your LinkedIn URL)* |
+| 💼 LinkedIn | https://www.linkedin.com/in/deepikakunkatla/ |
 | 🌐 Portfolio | *(add your portfolio URL)* |
-| ✉️ Email | *(add your email address)* |
+| ✉️ Email |deepikakunkatla4@gmail.com |
 
 </div>
 
