@@ -374,33 +374,12 @@ mindmap
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepika-799&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepika-799&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
 </div>
 
-<br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepika-799&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepika-799&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
 
 ## 📈 Contribution Graph
 
