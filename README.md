@@ -419,7 +419,7 @@ mindmap
 |:---:|:---:|
 | 🐙 GitHub | [@deepika-799](https://github.com/deepika-799) |
 | 💼 LinkedIn | https://www.linkedin.com/in/deepikakunkatla/ |
-| 🌐 Portfolio | *(add your portfolio URL)* |
+| 🌐 Portfolio |portfolio-website-jet-five-64.vercel.app |
 | ✉️ Email |deepikakunkatla4@gmail.com |
 
 </div>
